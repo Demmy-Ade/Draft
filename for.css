@@ -1,0 +1,323 @@
+.container{
+    background-color: gold;
+    padding: 25px ;
+        display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    border-radius: 10px;
+    width: 100%;
+}
+.row1{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row2{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+
+.row3{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row4{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row5{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row6{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row7{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+
+.row8{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row9{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row10{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row11{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+
+.row12{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row13{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row14{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}.row15{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row16{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+
+}
+.row17{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row18{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+
+.row19{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row20{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row21{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row22{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row23{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+
+.row24{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row25{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row26{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row27{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+
+.row28{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row29{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row30{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}.row31{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row32{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+
+}
+.row33{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row34{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+
+.row35{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row36{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row37{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row38{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row39{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+
+.row40{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row41{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row42{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row43{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+
+.row44{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row45{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row46{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}.row47{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row48{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+
+}
+
+.row49{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row50{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+
+.row51{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row52{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row53{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row54{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row55{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+
+.row56{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+
+.row57{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row58{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row59{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+
+.row60{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}
+.row61{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row62{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+}.row63{
+    background-color:red;
+    padding: 45px 55px 45px 55px;
+    color: red;
+}
+.row64{
+    background-color:black;
+    padding: 45px 55px 45px 55px;
+
+}
+/* Default styles for larger screens */
+
+/* Media query for screens with a maximum width of 400px */
+@media screen and (max-width: 400px) {
+    .container {
+        padding: 10px;
+    }
+
+    .container > div {
+        padding: 5px;
+        margin-bottom: 5px;
+    }
+}
